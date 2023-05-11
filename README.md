@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorvaspin&label=Profile%20views&color=0e75b6&style=flat" alt="jorvaspin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorvaspin" alt="jorvaspin" /></a> </p>
-
 - 🔭 Mi último trabajo fue de FullStack en SmartEducation SPA [Cívicamente](https://github.com/jorvaspin/cm-jorvaspin)
 
 - 🌱 Actualmente estoy aprendiendo **Python y CiberSeguridad**
@@ -56,3 +54,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorvaspin&show_icons=true&locale=en" alt="jorvaspin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorvaspin&" alt="jorvaspin" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorvaspin" alt="jorvaspin" /></a> </p>
+
