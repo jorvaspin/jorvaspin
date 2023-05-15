@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Jorge Ignacio Vásquez Pinto</h1>
-<h3 align="center">Soy un apasionado por la informática. Titulado de la carrera: Ingeniería en ejecusión informática, con 7 años de experiencia en el mundo laboral. Creando proyectos, solucionando necesidades de clientes, liderando reuniones, y amando lo que hago día a día. Siempre buscando crecer profesionalmente y estando en la vanguardia de las nuevas ténoclogias.</h3>
+<h3 align="center">Soy un apasionado por la informática. Titulado de la carrera: Ingeniería en ejecución informática, con 7 años de experiencia en el mundo laboral. Creando proyectos, solucionando necesidades de clientes, proponiendo soluciones integrales en los desarrollos, y aplicando metodologías agiles en cada desarrollo. Siempre buscando crecer profesionalmente y estando en la vanguardia de las nuevas técnologias.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorvaspin&label=Profile%20views&color=0e75b6&style=flat" alt="jorvaspin" /> </p>
 
